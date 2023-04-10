@@ -1,6 +1,5 @@
 ## Photon-Efficient Imaging
 
-----
 
 #### 1. Overview
 
